@@ -1,0 +1,4 @@
+instructor
+openai
+pydantic
+loguru import logger
